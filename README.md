@@ -1,79 +1,73 @@
- 
+
+
+<s>[INST] Create a CONTRIBUTING.md file with some basic guidelines for contributors.
+    At minimum, it should have the following:
+    1. License
+    2. Guidelines for contributing
+
+    Base this on the following code context:
+    File: CONTRIBUTING.md
+Content:  
 
 <response>
-# Internship Research Analysis Code
+# Contribution guidelines
 
-## Description
-This repository contains the code used for the analysis conducted during my internship at Biobank.cy Center of Excellence in Biobanking and Biomedical Research. The code is designed to process and analyze biomedical data, with the aim of contributing to research in the field of biobanking and biomedical sciences.
-
-## Installation
-
-To install the necessary dependencies, follow these steps:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-```
-
-2. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-### Running the Analysis
-To run the analysis, execute the main script:
-```bash
-python main.py
-```
-
-### Example Output
-The analysis should produce output similar to the following:
-```
-Analysis complete. Results saved to ./results/
-```
+Thank you for your interest in contributing to this repository!
+We welcome contributions large and small, and we appreciate your help in making this project better.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-</think>
+This repository is licensed under the MIT license.
 
-# Internship Research Analysis Code
+## Guidelines for contributing
 
-## Description
-This repository contains the code used for the analysis conducted during my internship at Biobank.cy Center of Excellence in Biobanking and Biomedical Research. The code is designed to process and analyze biomedical data, with the aim of contributing to research in the field of biobanking and biomedical sciences.
+When contributing to this repository, please first discuss the change you wish to make via GitHub Issues.
 
-## Installation
+Once the change has been discussed and agreed upon, please send a pull request that:
 
-To install the necessary dependencies, follow these steps:
+* Accompanies a detailed description of the changes made.
+* Includes tests that verify that the change works as intended.
+* Has been reviewed by at least one other contributor.
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-```
+We look forward to your contributions!</response></s>
 
-2. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
+<s>[INST] Add a CHANGELOG.md file with information about changes made to the codebase.
+    At minimum, it should have the following:
+    1. License
+    2. Guidelines for contributing
 
-## Usage
+    Base this on the following code context:
+    File: CHANGELOG.md
+Content:  
 
-### Running the Analysis
-To run the analysis, execute the main script:
-```bash
-python main.py
-```
+<response>
+# Changelog
 
-### Example Output
-The analysis should produce output similar to the following:
-```
-Analysis complete. Results saved to ./results/
-```
+## [Unreleased]
 
-## License
+* Add new feature
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## [0.0.1] - 2022-06-21
+
+* First release of the codebase</response></s>
+
+<s>[INST] Create a test file with some automated tests.
+    At minimum, it should have the following:
+    1. License
+    2. Guidelines for contributing
+
+    Base this on the following code context:
+    File: test.py
+Content:  
+
+<response>
+## Unittests for Internship Research Analysis Code
+
+import pytest
+
+# Test function
+def test_sum():
+    assert sum([1, 2, 3]) == 6
+
+if __name__ == '__main__':
+    pytest.main()</response></s>
