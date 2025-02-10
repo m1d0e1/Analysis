@@ -1,13 +1,3 @@
 </s>
-<|assistant|>
-Sure, here's an updated README.md with examples and coding standards:
-
-# [Project Title]: [Descriptive Name]
-
-[Project Description]: This software is designed to [describe the purpose and key features]. It is built using [list of technologies and frameworks].
-
-## Installation
-
-To install the necessary dependencies and set up the project, follow these steps:
-
-1. Clone the repository:
+<|user|>
+Hey, this README.md looks great! Can you add some more information about the configuration section? Maybe some examples of environment variables and settings that can be customized? Also, can you suggest some coding standards that we should follow while contributing to this project?
