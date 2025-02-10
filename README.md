@@ -64,9 +64,26 @@ This Jupyter notebook analyzes data from 1,346 participants in the Cyprus Bioban
 ---
 
 ### **Key Findings**  
-- **Demographics**: Majority of participants were married (72.7%), with a mean age of 50.4 years.  
-- **Smoking**: 19.9% were current smokers, 10.6% former smokers.  
-- **Medical Conditions**: 56.1% had a prior medical diagnosis; 20.9% reported hypertension.  
-- **Biochemical Trends**: Mean BMI was 26.35 (overweight range), with notable correlations between BMI and blood pressure.  
+#### **Demographics**  
+- **Gender**: 57.1% female, 42.9% male. Males were older (51.4 vs. 49.6 years, *p=0.020*).  
+- **BMI**: Higher in males (27.5 vs. 25.5). Overweight prevalence: 46% males vs. 28.8% females.  
+- **Smoking**: 23.7% males vs. 17.1% females were current smokers.  
+- **Education**: More females held postgraduate degrees (18.4% vs. 15.7% males).  
+
+#### **Clinical Tests**  
+- **Blood Pressure**: Males had higher systolic (130.4 vs. 123.4 mmHg) and diastolic (80.8 vs. 76.0 mmHg) levels.  
+- **Metabolic Markers**:  
+  - Males: Higher glucose (99.5 mg/dL), uric acid (5.4 mg/dL), triglycerides (126.2 mg/dL).  
+  - Females: Higher total cholesterol (201.1 mg/dL) and HDL (65.6 mg/dL).  
+
+#### **Disease Prevalence**  
+- **Hypertension**: 22.7% males vs. 12.6% females (*p<0.05*).  
+- **Cardiovascular**: Myocardial infarction in 2.1% males vs. 0.3% females.  
+- **Osteoporosis**: 10.7% females vs. 2.1% males (*p<0.05*).  
+
+#### **Treatment**  
+**Most Used Drugs**: Thyroxine, Metformin, Aspirin, Calcium, Rosuvastatin.  
+
+---
 
 ---
